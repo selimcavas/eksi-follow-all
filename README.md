@@ -1,6 +1,6 @@
 eksi-follow-all
 =====
-Eksi sozlukteki herkesi takip etmeye yarayan ufak bir shell scripti.
+Eksi sozlukteki herkesi curl ile post request atarak takip etmeye yarayan ufak bir shell scripti.
 
 ⚠️Hesabinizin basina gelenlerden ben sorumlu degilim. Kullanmadan önce doğru cookieyi girdiğinize emin olun ve kullandığınız takdirde olası sonuçların sorumluluğunu üstlenin.⚠️
 
