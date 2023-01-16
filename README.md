@@ -1,7 +1,9 @@
 eksi-follow-all
 =====
-Eksi sozlukteki herkesi takip etmeye yarayan ufak bir shell scripti. 
+Eksi sozlukteki herkesi takip etmeye yarayan ufak bir shell scripti.
+
 ⚠️Hesabinizin basina gelenlerden ben sorumlu degilim. Kullanmadan önce doğru cookieyi girdiğinize emin olun ve kullandığınız takdirde olası sonuçların sorumluluğunu üstlenin.⚠️
+
 **(not: buyuk ihtimal basina bir sey gelecek)**
 
 Nasil Kullanilir
