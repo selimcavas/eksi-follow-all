@@ -2,7 +2,7 @@ eksi-follow-all
 =====
 Ekşi sözlükteki herkesi curl ile post request atarak takip etmeye yarayan ufak bir shell scripti.
 
-⚠️Hesabınızın başına gelenlerden ben sorumlu değilim. Kullanmadan önce doğru cookieyi girdiğinize emin olun ve kullandığınız takdirde olası sonuçların sorumluluğunu üstlenin.⚠️
+**⚠️Hesabınızın başına gelenlerden ben sorumlu değilim. Kullanmadan önce doğru cookieyi girdiğinize emin olun ve kullandığınız takdirde olası sonuçların sorumluluğunu üstlenin.⚠️**
 
 **(not: büyük ihtimal başına bir şey gelecek)**
 
