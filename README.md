@@ -1,19 +1,19 @@
 eksi-follow-all
 =====
-Eksi sozlukteki herkesi curl ile post request atarak takip etmeye yarayan ufak bir shell scripti.
+Ekşi sözlükteki herkesi curl ile post request atarak takip etmeye yarayan ufak bir shell scripti.
 
-⚠️Hesabinizin basina gelenlerden ben sorumlu degilim. Kullanmadan once dogru cookieyi girdiginize emin olun ve kullandıgınız takdirde olası sonucların sorumlulugunu ustlenin.⚠️
+⚠️Hesabınızın başına gelenlerden ben sorumlu değilim. Kullanmadan önce doğru cookieyi girdiğinize emin olun ve kullandığınız takdirde olası sonuçların sorumluluğunu üstlenin.⚠️
 
-**(not: buyuk ihtimal basina bir sey gelecek)**
+**(not: büyük ihtimal başına bir şey gelecek)**
 
-Nasil Kullanilir
+Nasıl Kullanılır
 --------------------------------------------------------------------------------
 
 1. Repoyu clonelayın.
-2. eksisozuk.com'u acin ve herkesi takip etmek istediginiz hesabinizla giris yapin.
-3. Herhangi bir kullanicinin profiline girin.
-4. ctrl+shift+j veya cmd+shift+j ile chrome dev toolsu acin.
-5. Ustten network tabine girin, once kirmizi noktanin yanindaki clear tusuna basin sonra preserve log'u tickleyin.
-6. Kullaniciyi takip edin sayilar?r=b seklinde bir istek goreceksiniz ona tiklayin.
-7. Headerlari arasinda cookie nizi bulun ve cookie: den sonrasini kopyalayin ve headers.conf dosyasındaki your_cookie_value yerine koyun.
-8. followall.sh i calistirin. 0 ciktilari takip basarili 4 ciktisi basarisiz anlamina geliyor.
+2. eksisozluk.com'u açın ve herkesi takip etmek istediğiniz hesabınızla giriş yapın.
+3. Herhangi bir kullanıcının profiline girin.
+4. ctrl+shift+j veya cmd+shift+j ile chrome dev toolsu açın.
+5. Üstten network tabine girin, önce kırmızı noktanın yanındaki clear tuşuna basın sonra preserve log'u tikleyin.
+6. Kullanıcıyı takip edin, sayılar?r=b şeklinde bir istek göreceksiniz ona tıklayın.
+7. Headerları arasında cookie nizi bulun ve cookie: den sonrasını kopyalayın ve headers.conf dosyasındaki your_cookie_value yerine koyun.
+8. followall.sh i çalıştırın. 0 çıktıları takip başarılı 4 çıktısı başarısız anlamına geliyor.
