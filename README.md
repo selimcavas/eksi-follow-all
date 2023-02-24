@@ -12,7 +12,7 @@ Nasıl Kullanılır
 1. Repoyu clonelayın.
 2. eksisozluk.com'u açın ve herkesi takip etmek istediğiniz hesabınızla giriş yapın.
 3. Herhangi bir kullanıcının profiline girin.
-4. ctrl+shift+c veya cmd+shift+c ile chrome dev toolsu açın.
+4. f12 ile chrome dev toolsu açın.
 5. Üstten network tabine girin, önce kırmızı noktanın yanındaki clear tuşuna basın sonra preserve log'u tikleyin.
 6. Kullanıcıyı takip edin, sayılar?r=b şeklinde bir istek göreceksiniz ona tıklayın.
 7. Headerları arasında cookie nizi bulun ve cookie: den sonrasını kopyalayın ve headers.conf dosyasındaki your_cookie_value yerine koyun.
